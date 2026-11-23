@@ -1,0 +1,5 @@
+# Local SQLite data and temporary files.
+database/*.db
+database/*.db-journal
+database/*.db-wal
+database/*.db-shm
