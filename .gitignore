@@ -3,3 +3,9 @@ database/*.db
 database/*.db-journal
 database/*.db-wal
 database/*.db-shm
+
+# Compiled programs and runtime logs.
+/server
+/client
+*.o
+*.log
